@@ -7,43 +7,73 @@
 .container{
     width: 100%;
     height: 800px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+
 
 }
 
 .scene-monkeyDLuffy{
 
- width: 300px;
+ width: 400px;
  height: 500px;
+ margin: 50px 400px;
 
 }
 .sombrero{
     
 }
+/*
 .monkeyDLuffy-mugiwara{
 
    width: 200px;
    height: 130px;
    background-color: transparent;
-   border-radius: 50%;
-   border-top: 40px solid #fdc86d;
-  
-   z-index: 0;
+   border-radius: 55%;
+   border-top: 90px solid #fdc86d;
+   position: relative;
+   left: 19px;
+   z-index: 1;
 
    
 
 }
+
+
+*/
+.monkeyDLuffy-mugiwara{
+
+  width: 200px;
+  height: 140px;
+  border-radius: 50%;
+  background-color: #fdc86d;
+  position: relative;
+  bottom: 10px;
+  left: 28px;
+  z-index: 1;
+  border: 1px solid #8c7858;
+
+}
+
 .monkeyDLuffy-complement{
 
-width: 250px;
-height: 250px;
-
+width: 260px;
+height: 220px;
 border-radius: 50%;
-background-color: #000;
-position: absolute;
-top: 10px;
-z-index: 1;
+background-color: #fdc86d;
+border: 1px solid #8c7858;
+position: relative;
+top: -110px;
+z-index: 2;
 
+}
+
+.monkeyDLuffy-head{
+
+width: 170px; 
+height: 140px;
+background-color: #f19f6c;
+border-radius: 50%;
+position: relative;
+top: -80px;
+left: 30px;
+z-index: 3;
 }
