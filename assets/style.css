@@ -222,9 +222,36 @@ position: relative;
    height: 52px;
    background-color: #fff;
    border-radius: 15px 15px 100% 100%;
+   transform: rotate(-2deg);
    position: absolute;
    left: 20px;
    bottom: 13px;
    z-index: 8;
    border: 1px solid #8c7858;
+}
+
+.monkeyDLuffy-nose__part1{
+width: 11px;
+height: 7px;
+border-radius: 90%;
+background: transparent;
+transform: rotate(-102deg);
+border-top: 2.5px solid #2d1710;
+position: relative;
+left: 77px;
+bottom: 17px;
+z-index: 8;
+}
+
+.monkeyDLuffy-nose__part2{
+width: 13px;
+height: 7px;
+border-radius: 90%;
+background: transparent;
+transform: rotate(112deg);
+border-top: 2px solid #2d1710;
+position: relative;
+left: 74.5px;
+bottom: 33.5px;
+z-index: 7;
 }
