@@ -91,7 +91,7 @@ z-index: 4;
    -webkit-border-radius: 50%;
    border-radius: 30%;
    position: relative;
-   top: 35px;
+   top: 13.5px;
    left: 10px;
    z-index: 5;
 
@@ -244,7 +244,7 @@ z-index: 8;
 }
 
 .monkeyDLuffy-nose__part2{
-width: 13px;
+width: 12px;
 height: 7px;
 border-radius: 90%;
 background: transparent;
@@ -252,6 +252,160 @@ transform: rotate(112deg);
 border-top: 2px solid #2d1710;
 position: relative;
 left: 74.5px;
-bottom: 33.5px;
+bottom: 32.5px;
 z-index: 7;
+}
+
+
+
+.monkeyDLuffy-nose__part3{
+
+   width: 10px;
+   height: 6px;
+   background-color: transparent;
+   border-radius: 35%;
+   border-top: 1px solid #894f3c;
+   position: relative;
+   transform: rotate(54deg);
+   top: -45px;
+   left:  74.5px;
+   z-index: 7;
+
+}
+
+.monkeyDLuffy-smile__teeth{
+
+   width: 120px;
+   height: 10px;
+   background-color: transparent;
+   border-radius: 35%;
+   border-top: 1px solid #000; /*a0a1a3*/
+   transform: rotate(180deg);
+   position: relative;
+   top: 12px;
+   left: 4px;
+
+}
+
+.smile-teeth__part1{
+
+   width: 12px;
+   height: 6px;
+   background-color: transparent;
+   border-radius: 35%;
+   border-top: 1px solid #000;
+   position: relative;
+   transform: rotate(250deg);
+   top: 2px;
+   left:  10px;
+   z-index: 7;
+
+}
+
+.smile-teeth__part2{
+
+   width: 12px;
+   height: 6px;
+   background-color: transparent;
+   border-radius: 35%;
+   border-top: 1px solid #000;
+   position: relative;
+   transform: rotate(280deg);
+   top: 7px;
+   left:  11px;
+   z-index: 7;
+
+
+
+}
+.smile-teeth__part3{
+ 
+   width: 12px;
+   height: 6px;
+   background-color: transparent;
+   border-radius: 35%;
+   border-top: 1px solid #000;
+   position: relative;
+   transform: rotate(260deg);
+   top: -9.5px;
+   left:  21px;
+   z-index: 7;
+
+
+
+}
+
+.smile-teeth__part4{
+
+   width: 12px;
+   height: 6px;
+   background-color: transparent;
+   border-radius: 35%;
+   border-top: 1px solid #000;
+   position: relative;
+   transform: rotate(280deg);
+   top: -5px;
+   left:  21px;
+   z-index: 7;
+
+
+}
+
+.smile-teeth__part5{
+   width: 12px;
+   height: 6px;
+   background-color: transparent;
+   border-radius: 35%;
+   border-top: 1px solid #000;
+   position: relative;
+   transform: rotate(90deg);
+   top: -21px;
+   left: 96px;
+   z-index: 7;
+
+
+}
+
+.smile-teeth__part6{
+
+   width: 8px;
+   height: 3px;
+   background-color: transparent;
+   border-radius: 35%;
+   border-top: 1px solid #000;
+   position: relative;
+   transform: rotate(70deg);
+   top: -17px;
+   left: 100px;
+   z-index: 7;
+
+}
+
+.smile-teeth__part7{
+
+   width: 9px;
+   height: 6px;
+   background-color: transparent;
+   border-radius: 35%;
+   border-top: 1px solid #000;
+   position: relative;
+   transform: rotate(100deg);
+   top: -30px;
+   left: 108px;
+   z-index: 7;
+
+
+}
+
+.smile-teeth__part8{
+   width: 7px;
+   height: 6px;
+   background-color: transparent;
+   border-radius: 35%;
+   border-top: 1px solid #000;
+   position: relative;
+   transform: rotate(80deg);
+   top: -28px;
+   left: 109px;
+   z-index: 7;
 }
