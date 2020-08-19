@@ -1,7 +1,7 @@
 *{
    margin: 0px;
    box-sizing: border-box;
-   border: 1px solid red !important;
+ 
     
 }
 
@@ -67,14 +67,13 @@ z-index: 2;
 
 .monkeyDLuffy-head{
 
-width: 170px; 
+width: 165px; 
 height: 150px;
 background-color: #f3a36e;
 border-top-left-radius: 50%;
 border-top-right-radius: 50%;
 border-bottom-left-radius: 165px;
 border-bottom-right-radius: 165px;
-
 position: relative;
 top: -300px;
 left: 42px;
@@ -92,7 +91,7 @@ z-index: 4;
    border-radius: 30%;
    position: relative;
    top: 13.5px;
-   left: 10px;
+   left: 7.7px;
    z-index: 5;
 
 }
@@ -463,9 +462,9 @@ z-index: 7;
    border-radius: 50%;
    border-top: 12px solid #000;
    position: relative;
-   transform: rotate(78deg);
+   transform: rotate(66deg);
    bottom: 275px;
-   left: 130px;
+   left: 135px;
    z-index: 7;
 }
 
@@ -481,3 +480,200 @@ z-index: 7;
    left: 124px;
    z-index: 7;
 }
+
+.monkeyDLuffy-hair__part5{
+   width: 75px;
+   height: 30px;
+   background-color: transparent;
+   border-radius: 50%;
+   border-top: 13px solid #000;
+   position: relative;
+   transform: rotate(-15deg);
+   bottom: 359.5px;
+   left: 136px;
+   z-index: 7;
+}
+
+.monkeyDLuffy-hair__part6{
+   width: 75px;
+   height: 30px;
+   background-color: transparent;
+   border-radius: 50%;
+   border-top: 10px solid #000;
+   position: relative;
+   transform: rotate(30deg);
+   bottom: 380px;
+   left: 146px;
+   z-index: 7;
+
+}
+
+.monkeyDLuffy-hair__part7{
+   width: 75px;
+   height: 30px;
+   background-color: transparent;
+   border-radius: 50%;
+   border-top: 15px solid #000;
+   position: relative;
+   transform: rotate(73.5deg);
+   bottom: 385px;
+   left: 154px;
+   z-index: 7;
+
+}
+
+
+.monkeyDLuffy-hair__part8{
+   width: 65px;
+   height: 30px;
+   background-color: transparent;
+   border-radius: 50%;
+   border-top: 9.2px solid #000;
+   position: relative;
+   transform: rotate(-129deg);
+   bottom: 432px;
+   left: 177px;
+   z-index: 7;
+
+
+
+}
+/*
+.monkeyDLuffy-hair__part9{
+width: 45px;
+   height: 40px;
+   background-color: transparent;
+   border-radius: 30%;
+   border-top: 8px solid #000;
+   position: relative;
+   transform: rotate(74deg);
+   bottom: 432px;
+   left: 175px;
+   z-index: 7;
+}
+*/
+.monkeyDLuffy-hair__part10{
+
+   width: 0px;
+   height: 20px;
+   border-right: 9px solid transparent;
+   border-left: 9px solid transparent;
+   border-top: 47px solid #000;
+   
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%;
+   border-radius: 50%;
+   position: absolute;
+   transform: rotate(-15deg);
+   bottom: 342px;
+   left: 202px;
+   z-index: 11;
+}
+
+.monkeyDLuffy-hair__part11{
+
+   width: 0px;
+   height: 20px;
+   border-right: 10px solid transparent;
+   border-left: 10px solid transparent;
+   border-top: 47px solid #000;
+   
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%;
+   border-radius: 50%;
+   position: absolute;
+   transform: rotate(-19deg);
+   bottom: 338px;
+   left: 202px;
+   z-index: 11;
+}
+
+.monkeyDLuffy-hair__part12{
+
+   width: 0px;
+   height: 20px;
+   border-right: 10px solid transparent;
+   border-left: 10px solid transparent;
+   border-top: 27px solid #000;
+   
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%;
+   border-radius: 50%;
+   position: relative;
+   transform: rotate(-63deg);
+   bottom: 400px;
+   left: 202px;
+   z-index: 11;
+
+
+}
+
+.monkeyDLuffy-hair__part13{
+width: 0px;
+   height: 20px;
+   border-right: 10px solid transparent;
+   border-left: 10px solid transparent;
+   border-top: 53px solid #000;
+   transform: rotate(10deg);
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%;
+   border-radius: 30%;
+   position: relative;
+   bottom: 440px;
+   left: 182px;
+   z-index: 5;
+
+}
+
+
+.monkeyDLuffy-hair__part14{
+   width: 65px;
+   height: 30px;
+   background-color: transparent;
+   border-radius: 50%;
+   border-top: 14px solid #000;
+   position: relative;
+   transform: rotate(89deg);
+   bottom: 470px;
+   left: 163px;
+   z-index: 7;
+}
+
+
+
+
+.monkeyDLuffy-hair__part16{
+
+   width: 84px;
+   height: 30px;
+   background-color: transparent;
+   border-radius: 50%;
+   border-top: 7.5px solid #000;
+   position: relative;
+   transform: rotate(-55deg);
+   bottom: 544px;
+   left: 60px;
+   z-index: 7;
+
+
+}
+
+
+
+.monkeyDLuffy-hair__part17{
+
+   width: 37px;
+   height: 10px;
+   background-color: transparent;
+   border-radius: 50%;
+   border-top: 20px solid #000;
+   position: relative;
+   transform: rotate(11deg);
+   bottom: 596px;
+   left: 116px;
+   z-index: 7;
+
+
+}
+
+
