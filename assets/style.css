@@ -985,6 +985,10 @@ right: 100px;
    position: relative;
    transform: rotate(6deg);
    border-top-right-radius: 40px;
+   border-left: 2px solid #000;
+   border-right: 2px solid #000;
+   border-top: 2px solid #000;
+   border-bottom: 2px solid #000;
    z-index: 3;
 
 
@@ -1050,6 +1054,10 @@ right: 100px;
    position: relative;
    transform: rotate(-10deg);
    border-top-left-radius: 25px;
+   border-left: 2px solid #000;
+   border-right: 2px solid #000;
+   border-top: 2px solid #000;
+   border-bottom: 2px solid #000;
    z-index: 3;
 
 
@@ -1061,9 +1069,9 @@ right: 100px;
   background-color: #6a0304;
   border-radius: 50%;
   position: relative;
-  left: 85px;
-  bottom: 836px;
-  transform: rotate(-100deg);
+  left: 90px;
+  bottom: 841px;
+  transform: rotate(-133deg);
   z-index: 3;
 
 }
